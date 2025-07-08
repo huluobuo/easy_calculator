@@ -17,7 +17,7 @@
 git clone https://github.com/huluobuo/easy_calculator.git
 ```
 
-    2. 运行程序
+2. 运行程序
 
 ```bash
 python main.py
